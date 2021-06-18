@@ -28,7 +28,7 @@ Build a simple Console application using the technology of your choice (preferab
 
 ## Clone this repository
 
-     git clone https://github.com/dwaynobaggins/Countries.git 
+     git clone https://github.com/dwaynobaggins/Lending_Platform.git 
      
 Once the repository has been cloned, you will have two folders; **json_builder** and **client**.   
 **json_builder** is for creating the .json files that will be used later by the client, and the **client** folder contains everything necessary to use those files.
