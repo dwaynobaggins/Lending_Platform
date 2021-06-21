@@ -52,4 +52,4 @@ All required information will then be output to the console window.
 
 I assumed that the user would enter in their information accurately. A production version of this would require a decent amount of user input validation/restriction, for things like special characters or missing/invalid input.
 A front end would very useful here, to display the contents of the applicants database, with metrics such as the mean average Loan to Value of all applications readily visible.
-JSON is not the optimal medium for creating a database so a more suitable database solution would be employed if this was a production application.
+JSON is not the optimal medium for this application. A database solution might be more suitable if this was in production/live/public.
