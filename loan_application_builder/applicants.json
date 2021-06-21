@@ -1,0 +1,13 @@
+{
+  "applicants": [
+    {
+      "firstName": "dwayne",
+      "surname": "brick",
+      "loanAmount": 900000,
+      "assetValue": 1500000,
+      "creditScore": "799",
+      "LTV": 60,
+      "status": "Declined"
+    }
+  ]
+}
